@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NED Hotel London</name>
+    <description/>
+    <Style id="icon-seq2-0-0-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-3-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-4-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-5-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-6-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-7-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-seq2-0-8-0288D1-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>places</name>
+      <Placemark>
+        <name>The Ned Hotel</name>
+        <styleUrl>#icon-seq2-0-0-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0898458000000346,51.5137981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bank of England</name>
+        <styleUrl>#icon-seq2-0-1-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0884429999999838,51.5142268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mansion House</name>
+        <styleUrl>#icon-seq2-0-2-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0895090000000209,51.513007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Paul's Cathedral]]></name>
+        <styleUrl>#icon-seq2-0-3-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0983506000000034,51.5138453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London Bridge</name>
+        <styleUrl>#icon-seq2-0-4-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0877321000000393,51.5078788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tower of London</name>
+        <styleUrl>#icon-seq2-0-5-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0759493000000475,51.5081124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lloyd's of London]]></name>
+        <styleUrl>#icon-seq2-0-6-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0822673999999779,51.5130409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cannon Street Underground Station</name>
+        <styleUrl>#icon-seq2-0-7-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0906128999999964,51.511443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liverpool Street Station</name>
+        <styleUrl>#icon-seq2-0-8-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0814374000000271,51.5187516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
