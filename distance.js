@@ -1,5 +1,5 @@
 var fs = require('fs');
-var d3 = require('d3-dsv');
+var d3 = require('d3');
 
 const input = "input/places.csv";
 
@@ -32,8 +32,9 @@ fs.readFile(input, "utf8", function(error, data) {
 		d.distKM = dist/1000;
 	})
 
+console.log(rows)
 	var csvOutput = d3.csvFormat(rows);
-	fs.writeFile("output/distances.csv",csvOutput);
+	fs.writeFileSync("output/distances.csv",csvOutput);
 
   	//helper function
   	function toRadians (angle) {
